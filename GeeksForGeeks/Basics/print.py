@@ -1,8 +1,8 @@
 myNumber = 2
-print(myNumber)
+print("The integer number is: ", str(myNumber))
 
 myNumber = 4.5
-print(myNumber)
+print("The floating point number is: ", myNumber)
 
 myNumber = "Hello World"
-print(myNumber)
+print("The string is: ", myNumber)
